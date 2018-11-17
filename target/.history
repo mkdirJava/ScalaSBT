@@ -1,0 +1,54 @@
+compile
+help
+help run
+run
+scalaVersion
+session save
+set ThisBuild / scalaVersion := "2.12.7"
+last
+session save
+scalaVersion
+session save
+relaod
+reload
+test
+~testQuick
+console
+projects
+HelloCore/compile
+helloCore/compile
+relaod
+reload
+~quickTest
+~testQuick
+~testQuic
+~testQuick
+hello
+quickTests
+quickTest
+relaod
+reload
+test
+quickTest
+~test
+~quickTest
+projects
+helloCore/compile
+helloCore/test
+~testQuick
+test
+run
+dist
+reload
+dist
+Docker/publishLocal
+++2.11.12!
+scalaVersion
+reload
+scalaVersion
+help dist
+inspect dist
+help inspect
+inspect tree dist
+;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/tmp/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/home/origin/.IdeaIC2018.1/config/plugins/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+exit
